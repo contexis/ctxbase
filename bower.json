@@ -1,0 +1,21 @@
+{
+  "name": "ctxbase",
+  "version": "1.0.0",
+  "description": "Base theme for Wordpress",
+  "authors": [
+    "Thomas Gollenia <gollenia@contexis.de>",
+    "Philipp Wiens <wiens@contexis.de>"
+  ],
+  "license": "MIT",
+  "homepage": "www.contexis.de",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}

@@ -1,0 +1,39 @@
+# .gitignore
+# Author: Thomas Gollenia
+# License: MIT
+
+# Packages
+##############################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+#############################
+*.log
+*.sql
+*.sqlite
+
+# OS Files
+#############################
+.DS_Store
+.DS_Store*
+._*
+.Spotlite-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build systems
+#############################
+dist
+bower_components
+node_modules
+npm-debug.log
+.sass-cache
+*.css.map
