@@ -1,14 +1,14 @@
 {
   "dependencies": {
-    "main.js": {
+    "app.min.js": {
       "files": [
-        "scripts/main.js"
+        "scripts/app.js"
       ],
       "main": true
     },
-    "main.css": {
+    "app.min.css": {
       "files": [
-        "styles/main.scss"
+        "styles/app.scss"
       ],
       "main": true
     },
@@ -25,6 +25,6 @@
     }
   },
   "config": {
-    "devUrl": "http://example.dev"
+    "devUrl": "dev.contexis.de"
   }
 }
